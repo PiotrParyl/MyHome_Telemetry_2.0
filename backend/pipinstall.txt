@@ -1,0 +1,10 @@
+mysql.connector
+python-dotenv
+mysql-connector-python
+requests
+sqlalchemy
+python-dotenv
+pymysql
+fastapi
+uvicorn
+cryptography
